@@ -1,0 +1,11 @@
+.time-counter-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.time-counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
