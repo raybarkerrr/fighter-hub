@@ -1,7 +1,8 @@
-
+.me-auto{
+    max-width: 10%;
+}
 
 .faceoff{
-    max-height: 100vh;
-    background-size: cover;
-    position: relative;
+    max-width: 100%;
+    max-height: auto;
 }
